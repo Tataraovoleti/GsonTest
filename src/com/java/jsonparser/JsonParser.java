@@ -6,7 +6,7 @@ package com.java.jsonparser;
 import com.google.gson.Gson;
 
 /**
- * @author Sanjay
+ * @author Tatarao voleti
  *
  */
 public class JsonParser {
