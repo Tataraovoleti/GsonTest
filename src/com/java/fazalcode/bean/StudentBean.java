@@ -4,7 +4,7 @@
 package com.java.fazalcode.bean;
 
 /**
- * @author Sanjay
+ * @author Tatarao Voleti
  *
  */
 public class StudentBean {
